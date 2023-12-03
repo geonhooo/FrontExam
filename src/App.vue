@@ -1,15 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  
+  <FrontExam msg="201944004신건호"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import FrontExam from './components/FrontExam.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    FrontExam
   }
 }
 </script>
